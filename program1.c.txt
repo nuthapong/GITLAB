@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+	
+	printf("Hello Software Engineering\n");
+	printf("My name is Nuthapong\n");
+	return 0;
+}
