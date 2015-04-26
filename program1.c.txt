@@ -4,5 +4,7 @@ int main(){
 	printf("Hello Engineering\n");
 	printf("Good Bye\n");
 	printf("My name is Nuthapong CPE#26\n");
+	printf("eiei");
+	printf("gum");
 	return 0;
 }
