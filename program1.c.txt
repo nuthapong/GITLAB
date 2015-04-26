@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main(){
 	
-	printf("Hello Software Engineering\n");
+	printf("Hello Engineering\n");
+	printf("Good Bye\n");
 	printf("My name is Nuthapong CPE#26\n");
 	return 0;
 }
