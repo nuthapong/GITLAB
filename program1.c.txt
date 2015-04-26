@@ -3,5 +3,7 @@ int main(){
 	
 	printf("Hello Software Engineering\n");
 	printf("My name is Nuthapong CPE#26\n");
+	printf("eiei");
+	printf("gum");
 	return 0;
 }
